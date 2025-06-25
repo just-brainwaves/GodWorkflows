@@ -17,13 +17,7 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 ## ⚙️ Requirements
 
 * **Python 3.12** (Recommended)
-* **ComfyUI**:
-
-  ```bash
-  git clone https://github.com/comfyanonymous/ComfyUI.git
-  cd ComfyUI
-  python main.py
-  ```
+* **ComfyUI**: See The Repo For Installation Instructions
 
 ---
 
@@ -66,7 +60,7 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 
 ## 🧠 Resources
 
-> For models, VAEs, LoRAs, embeddings, wildcards, and ControlNets:
+> For models, VAEs, LoRAs, Lycoris, embeddings, wildcards, and ControlNets:
 
 * [civitai.com](https://civitai.com)
 * [huggingface.co](https://huggingface.co)
@@ -82,10 +76,10 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 * **📸 Variated Realistic Generator**
 
   * Best with: *RealVisXL v5.0 Lightning (BakedVAE)*
-  * Advanced option: *Flux.1D* or *Flux.1S* (for experienced users)
+  * Advanced option: *Flux.1D* or *Flux.1S* (for experienced users) As It Might Need Manual Configurations And Installations Of The Flux Libraries
 
 * **👤 Variated Character Generator**
 
-  * Designed for: *Any well-trained Illustrious-based model*
+  * Designed for: *People Looking To Generate Variations In Their Workflows*
 
 ---
