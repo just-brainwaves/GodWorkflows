@@ -8,6 +8,8 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 
 * 🔀 Random Prompt Combination Generator
 
+* 🔀 Dynamic LoRA Loader
+
 * ⬆️ Upscale images up to **4x resolution**
 
 * 📺 Supports high-resolution generation up to **1080p**
