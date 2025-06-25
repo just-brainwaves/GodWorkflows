@@ -7,17 +7,39 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 ## ✨ Features
 
 * 🔀 Random Prompt Combination Generator
+
 * ⬆️ Upscale images up to **4x resolution**
+
 * 📺 Supports high-resolution generation up to **1080p**
+
 * 🧐 Realistic and consistent generations
+
 * 🌺 Optimized sampler and model configurations for best results
+
+---
+
+## 🖼️ Screenshots
+
+> Below are sample screenshots of the workflows in action:
+
+### 🧬 The Wilrcard Processor To Generate Random Or Customised Variations
+
+
+### 🏞️ Realistic Image Generation Workflow
+
+### 🖌️ Anime Scene Generation Workflow
 
 ---
 
 ## ⚙️ Requirements
 
 * **Python 3.12** (Recommended)
-* **ComfyUI**: See The Repo For Installation Instructions
+
+### 🔼 Recommended Upscale Models
+
+* 4x-AnimeSharp (for anime-style images)
+* RealESRGAN\_x4plus (for general upscaling)
+* 4x-UltraSharp  (for high detail enhancement)
 
 ---
 
@@ -50,11 +72,7 @@ Welcome to **my collection of advanced workflows for image generation using Comf
   git clone https://github.com/gitmylo/FlowNodes.git custom_nodes/FlowNodes
   ```
 
-* *(Optional)* [ComfyUI Logic (for conditional calculations)](https://github.com/theUpsider/ComfyUI-Logic.git)
-
-  ```bash
-  git clone https://github.com/theUpsider/ComfyUI-Logic.git custom_nodes/ComfyUI-Logic
-  ```
+* ComfyUI-Custom-Scripts & ComfyUI-Impact-Pack From The ComfyUi-Manager
 
 ---
 
@@ -75,11 +93,13 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 
 * **📸 Variated Realistic Generator**
 
-  * Best with: *RealVisXL v5.0 Lightning (BakedVAE)*
-  * Advanced option: *Flux.1D* or *Flux.1S* (for experienced users) As It Might Need Manual Configurations And Installations Of The Flux Libraries
+  * Best with: *RealVisXL v5.0 Lightning (BakedVAE)* Or *Juggernaut XL* Or Any Other Well Trained Stable Diffusion Model
+  * Advanced option: *Flux.1D* or *Flux.1S* (for experienced users) as it might need manual configurations and installations of the Flux libraries
 
 * **👤 Variated Character Generator**
 
   * Designed for: *People Looking To Generate Variations In Their Workflows*
 
 ---
+
+*Make sure to place your screenshots inside a ******************************`screenshots/`****************************** folder in your repo directory.*
