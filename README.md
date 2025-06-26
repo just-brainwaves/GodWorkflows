@@ -23,13 +23,19 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 ## 🖼️ Screenshots
 
 > Below are sample screenshots of the workflows in action:
+![Screenshot](assets/FullWorkflow.png)
+
 
 ### 🧬 The Wilrcard Processor To Generate Random Or Customised Variations
+![Screenshot](assets/ThePromptGenerator.png)
 
 
-### 🏞️ Realistic Image Generation Workflow
+### 🏞️ Realistic/Anime Image Generation Workflow
+![Screenshot](assets/TheImageGenerator.png)
 
-### 🖌️ Anime Scene Generation Workflow
+
+### 🖌️ Dynamic LoRA Loader:
+![Screenshot](assets/DynamicLoraLoader.png)
 
 ---
 
@@ -99,5 +105,3 @@ Welcome to **my collection of advanced workflows for image generation using Comf
   * Advanced option: *Flux.1D* or *Flux.1S* (for experienced users) as it might need manual configurations and installations of the Flux libraries
 
 ---
-
-*Make sure to place your screenshots inside a ******************************`screenshots/`****************************** folder in your repo directory.*
