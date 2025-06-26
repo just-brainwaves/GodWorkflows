@@ -99,6 +99,12 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 
 ---
 
+## ⚙️ Installation
+
+* Just Drag And Drop **TheVariatedWorkflow.json** In Your Comfyui Graph.
+* If Found Any Missing Nodes Just Install Them With Either The ComfyUI Manager Or The Link Given Above.
+
+
 ## 🧠 Resources
 
 > For models, VAEs, LoRAs, Lycoris, embeddings, wildcards, and ControlNets:
