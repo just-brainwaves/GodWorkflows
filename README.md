@@ -18,6 +18,21 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 
 * 🌺 Optimized sampler and model configurations for best results
 
+
+## 🧠 IMPORTANT TIP !!
+
+> All Of The Nodes Are Color Coded For Easier Understanding:
+> **Orange** Color Boxes Are Your Special **Notes** To How Each Of The Nodes Work, Read Them If You Dont Know What To Do.
+
+* **Do not Change Anything In The Black Color Nodes They Are Functional Nodes And Tinkering Will Not Do Anything Good**.
+* All The **Purple** Nodes Are Your Wildcard Processors, Change Them To Customise The Different Variations.
+* AlL The **Green** Nodes Are Realted To The Positive Prompt.
+* All The **Red** Nodes Are Related To The Negative Prompt.
+* The **Yellow** Color Coded Group Is Your Dynamic LoRA Loader.
+* The **Magenta** Nodes Are Bypassed Nodes Select them And Press Ctrl+B To Activate Them Again.
+* The **Pink** Node Is Your Latent Image Node Change It To Select The Batch Amount And Also The Image Resolution.
+* The Upscaling Node And The Vae Decode Node Are Pretty Self Explanatory.
+
 ---
 
 ## 🖼️ Screenshots
