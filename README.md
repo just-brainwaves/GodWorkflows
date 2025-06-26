@@ -21,8 +21,8 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 
 ## 🧠 IMPORTANT TIP !!
 
-> All Of The Nodes Are Color Coded For Easier Understanding:
-> **Orange** Color Boxes Are Your Special **Notes** To How Each Of The Nodes Work, Read Them If You Dont Know What To Do.
+* **All Of The Nodes Are Color Coded For Easier Understanding:**
+* **Orange** Color Boxes Are Your Special **Notes** To How Each Of The Nodes Work, Read Them If You Dont Know What To Do.
 
 * **Do not Change Anything In The Black Color Nodes They Are Functional Nodes And Tinkering Will Not Do Anything Good**.
 * All The **Purple** Nodes Are Your Wildcard Processors, Change Them To Customise The Different Variations.
