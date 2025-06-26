@@ -89,18 +89,14 @@ Welcome to **my collection of advanced workflows for image generation using Comf
 
 ## 🧪 Recommended Models per Workflow
 
-* **🎨 Variated Anime Scene Generator**
+* **🎨 Variated Anime Scene Generations**
 
   * Works best with: *Illustrious* or *Pony-based models* (Some SD1.5 models also perform well)
 
-* **📸 Variated Realistic Generator**
+* **📸 Variated Realistic Generations**
 
   * Best with: *RealVisXL v5.0 Lightning (BakedVAE)* Or *Juggernaut XL* Or Any Other Well Trained Stable Diffusion Model
   * Advanced option: *Flux.1D* or *Flux.1S* (for experienced users) as it might need manual configurations and installations of the Flux libraries
-
-* **👤 Variated Character Generator**
-
-  * Designed for: *People Looking To Generate Variations In Their Workflows*
 
 ---
 
