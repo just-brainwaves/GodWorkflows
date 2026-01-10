@@ -2,6 +2,9 @@
 
 Welcome to **my collection of advanced workflows for image generation using ComfyUI** — designed for high-quality, realistic, and anime-style outputs with smart automation features.
 
+![Screenshot](assets/GodWorkflows.png)
+
+
 ---
 
 ## ✨ Features
